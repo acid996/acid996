@@ -26,7 +26,7 @@
 ---
 
 ### 📈 GitHub Stats
-![AcID's GitHub stats](https://github-readme-stats.vercel.app/api?username=acid996&show_icons=true&theme=tokyonight&hide_border=true)
+![AcID's GitHub stats](https://github-readme-stats.vercel.app/api?username=acid996&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acid996&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
