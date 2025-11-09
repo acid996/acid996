@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 What I Do
-- 🧠 Build scalable SaaS platforms (e.g., Trackado, ParkDesk, TravelAgency)
+- 🧠 Build scalable SaaS platforms (e.g., ParkDesk, TravelAgency)
 - 🔐 Design secure and performant .NET + Angular architectures
 - 🧩 Integrate DevOps (Azure Pipelines, YARP, Docker)
 - 🧾 Automate testing, CI/CD, and deployment processes
